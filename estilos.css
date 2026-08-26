@@ -12,7 +12,7 @@ body {
 }
 .banner {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-    url('imagenes/acoso_escolar.jpeg')
+    url('acoso_escolar.jpeg')
     no-repeat center center/cover;
     color: white;
     text-align: center;
